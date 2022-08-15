@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SipHashDotNet", "SipHashDotNet\SipHashDotNet.csproj", "{26EB72EE-7636-425D-9DE5-E1B06AA52E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SipHashTests", "SipHashTests\SipHashTests.csproj", "{BEF56058-0497-4805-8BAF-6202E56ADBA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26EB72EE-7636-425D-9DE5-E1B06AA52E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EB72EE-7636-425D-9DE5-E1B06AA52E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EB72EE-7636-425D-9DE5-E1B06AA52E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EB72EE-7636-425D-9DE5-E1B06AA52E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF56058-0497-4805-8BAF-6202E56ADBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF56058-0497-4805-8BAF-6202E56ADBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF56058-0497-4805-8BAF-6202E56ADBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF56058-0497-4805-8BAF-6202E56ADBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
