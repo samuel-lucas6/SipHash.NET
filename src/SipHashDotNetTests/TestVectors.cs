@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SipHashDotNet;
 
-namespace SipHashTests;
+namespace SipHashDotNetTests;
 
 [TestClass]
 public class TestVectors
